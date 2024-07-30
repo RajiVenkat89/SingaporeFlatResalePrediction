@@ -2,3 +2,5 @@ streamlit
 pandas
 numpy
 requests
+streamlit_option_menu
+option_menu
