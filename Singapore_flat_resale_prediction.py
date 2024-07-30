@@ -56,7 +56,7 @@ if(year>=lease_commence_date):
                         response = requests.get(url)
                         sp_model = pickle.loads(response.content)
                         Resale_price=sp_model.predict(user_input)
-                        st.write(f":green[SELLING PRICE: {round(Resale_price[0],2)}]")
+                        st.write(f":green[RESALE VALUE: {round(Resale_price[0],2)}]")
         except Exception as e:
                     st.write(e)    
                     st.write(":red[INVALID INPUT]")
