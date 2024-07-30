@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
-from streamlit_option_menu import option_menu
 import requests
 st.set_page_config(page_title='SINGAPORE FLAT RESALE PREDICTION',layout="wide")
 url="https://raw.githubusercontent.com/RajiVenkat89/SingaporeFlatResalePrediction/main/Model/Regression_model.pkl"
