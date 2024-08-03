@@ -32,7 +32,7 @@ The following is a fundamental outline of the project:
 
 ### Resale Price Prediction
 To predict the resale price of a Singapore Flats, follow these steps:
-1.Click on the render link of the application 
+1. Click on the render link of the application 
 2. Fill in the following required information:
 	-Registration Year
 	-Registration Month
@@ -44,7 +44,7 @@ To predict the resale price of a Singapore Flats, follow these steps:
 	-Flat Type
 	-Flat Model
 	-Floor area (Sqm)
-3. Click the **"PREDICT RESALE PRICE"** button.
-4. The app will display the predicted resale price based on the provided information.
+3.  Click the **"PREDICT RESALE PRICE"** button.
+4.  The app will display the predicted resale price based on the provided information.
 
   > **_NOTE:_**  To get a comprehensive overview of how to use the Application locally and also on the Web Browser, please refer to the attached document titled "Singapore Resale Flat Prices Prediction.pdf". 
